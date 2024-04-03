@@ -150,7 +150,7 @@ school.html
             </p>
         </body>
     </html>
-
+```
 
 ## OUTPUT
 
